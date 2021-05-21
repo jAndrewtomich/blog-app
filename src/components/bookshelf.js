@@ -1,6 +1,7 @@
 import React from 'react'
 import Book from './book'
 import books from './book-list'
+import "../blog-css/css/clean-blog.min.css"
 
 function BookShelf() {
   

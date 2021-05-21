@@ -1,4 +1,5 @@
 import React from 'react'
+import "../blog-css/css/clean-blog.min.css"
 
 const Book = (props) => {
   const { img_src, title, author, desc } = props
